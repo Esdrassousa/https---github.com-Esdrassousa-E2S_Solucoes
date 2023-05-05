@@ -3,7 +3,7 @@
 
 function App() {
 
-  return (<h1>E2S Soluções</h1>)
+  return (<h1>E2S</h1>)
 
 }
 
