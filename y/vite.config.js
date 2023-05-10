@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/https---github.com-Esdrassousa-E2S_Solucoes',
+  base: '/https://e2ssolucoes.com',
   plugins: [react()],
 })
